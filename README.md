@@ -24,3 +24,7 @@ Agregar dos inputs y un botón llamado HOLA.
 Hora: 3:31 p.m.
 Terminado el ejercicio HTML incisos 10 y 11.
 Agregar párrafo en divs, texto lorem ipsum, agregar form, acomodar inputs y cambiar boton a submit.
+
+Hora: 3:44 p.m.
+Terminado el ejercicio HTML incisos 12 y 13.
+Agregar combobox y comentar todo menos el form.
