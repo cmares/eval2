@@ -31,3 +31,7 @@ Agregar combobox y comentar todo menos el form.
 
 Hora: 3:50 p.m.
 Terminado el ejercicio con HTML.
+
+Hora 4:56 p.m.
+Terminado el ejercicio de CSS incisos del 1 al 4.
+Nuevas propiedades de colores y bordes para inputs, y capitalización de texto.
