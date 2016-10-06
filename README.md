@@ -8,3 +8,7 @@ Index editado, agregado un ícono en formatos .png y .ico para práctica.
 Hora: 1:16 p.m.
 Terminado el ejercicio de HTML inciso 4.
 Agregar una etiqueta meta tag.
+
+Hora: 1:26 p.m.
+Terminado el ejercicio de HTML inciso 5.
+Agregar un footer personalizado.
