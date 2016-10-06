@@ -12,3 +12,7 @@ Agregar una etiqueta meta tag.
 Hora: 1:26 p.m.
 Terminado el ejercicio de HTML inciso 5.
 Agregar un footer personalizado.
+
+Hora: 1:43 p.m.
+Terminado el ejercicio de HTML incisos 6 y 7.
+Crear un enlace a JELP en facebook, y cambiar el enlace de texto a una imagen.
