@@ -20,3 +20,7 @@ Crear un enlace a JELP en facebook, y cambiar el enlace de texto a una imagen.
 Hora: 1:54 p.m.
 Terminado el ejercicio de HTML incisos 8 y 9.
 Agregar dos inputs y un botón llamado HOLA.
+
+Hora: 3:31 p.m.
+Terminado el ejercicio HTML incisos 10 y 11.
+Agregar párrafo en divs, texto lorem ipsum, agregar form, acomodar inputs y cambiar boton a submit.
