@@ -28,3 +28,6 @@ Agregar párrafo en divs, texto lorem ipsum, agregar form, acomodar inputs y cam
 Hora: 3:44 p.m.
 Terminado el ejercicio HTML incisos 12 y 13.
 Agregar combobox y comentar todo menos el form.
+
+Hora: 3:50 p.m.
+Terminado el ejercicio con HTML.
