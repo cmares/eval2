@@ -2,3 +2,101 @@ footer
 {
 	background-color: #DDD;
 }
+
+body
+{
+	background-color: #ACA8ED;
+}
+
+p.capitalize
+{
+	text-transform: capitalize;
+}
+
+#InputRojo
+{
+	border-style: solid;
+	border-width: 5px;
+	border-color: #FF0000;
+}
+
+.InputAzul
+{
+	border-style: solid;
+	border-width: 5px;
+	border-color: #FFFF00;
+	background-color: #0000FF;
+}
+
+.botonColores
+{
+	background-color: #BBB;
+	border: solid;
+	padding: 5px;
+	border-color: #AAA;
+	border-radius: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 100px;
+}
+
+.botonColores:hover
+{
+	background-color: #EE82EE;
+	border-color: #9400D3;
+}
+
+.botonColores:active
+{
+	background-color: #40E0D0;
+	border-color: #00CED1;
+}
+
+@media screen and (min-width: 750px){
+	.botonColores
+	{
+		text-transform: uppercase;
+	}
+}
+
+@media screen and (max-width: 700px){
+	.botonColores
+	{
+		background-color: #FF69B4;
+		border-color: #cf3682;
+	}
+}
+
+@media print
+{
+	header nav, footer, input, #imprimir, select {
+	display: none;
+	}
+	body
+	{
+		/*text-align: center;*/
+	}
+	.botonColores
+	{
+		position: absolute;
+    	top: 50%;
+    	left: 50%;
+	}
+}
+
+#imprimir
+{
+	border: solid;
+	border-color: #BBB;
+	border-radius: 900px;
+}
+
+form > *
+{
+	margin: 10px;
+}
+
+form
+{
+	padding: 30px;
+}
